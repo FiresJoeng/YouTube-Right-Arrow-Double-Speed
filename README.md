@@ -28,8 +28,9 @@ A Chrome Extension. Designed to change YouTube's double-speed shortcut to the Ri
 
 ### 文件结构 / File Structure
 
-- **manifest.json** – Chrome 扩展的配置文件 / Configuration file for the Chrome extension.
-- **content.js** – 主要脚本文件，处理快捷键逻辑 / Main script handling the key events.
+- **manifest.json** – Chrome 扩展的配置文件 / Configuration file for the Chrome extension
+- **content.js** – 主要脚本文件，处理快捷键逻辑 / Main script handling the key events
+- **icon16.png**, **icon48.png**, **icon128.png** - 图标文件 / icons
 
 ### 注意事项 / Notes
 
@@ -39,4 +40,3 @@ A Chrome Extension. Designed to change YouTube's double-speed shortcut to the Ri
   This extension is only applicable to YouTube video pages.
 - 使用时可能与 YouTube 的原生快捷键产生冲突，必要时请调整相应按键事件。  
   There might be conflicts with YouTube's native shortcuts; adjust key events as necessary.
-  
