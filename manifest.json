@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube 右箭头二倍速",
+  "version": "1.0",
+  "description": "将 YouTube 的长按 2 倍速快捷键修改为右箭头键。",
+  "content_scripts": [
+    {
+      "matches": [
+        "*://www.youtube.com/*",
+        "*://youtu.be/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_end"
+    }
+  ]
+}
