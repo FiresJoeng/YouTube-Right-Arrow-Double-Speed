@@ -1,8 +1,6 @@
 # <img src="icon128.png" alt="YouTube-Right-Arrow-Double-Speed" width="32" height="32"> YouTube-Right-Arrow-Double-Speed
 YouTube 右箭头二倍速
 
----
-
 ### 描述 / Description
 
 将 YouTube 的长按 2 倍速快捷键修改为右箭头键，以便与中国大陆视频网站统一快捷键。  
