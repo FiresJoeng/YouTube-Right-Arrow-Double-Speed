@@ -39,3 +39,4 @@ A Chrome Extension. Designed to change YouTube's double-speed shortcut to the Ri
   This extension is only applicable to YouTube video pages.
 - 使用时可能与 YouTube 的原生快捷键产生冲突，必要时请调整相应按键事件。  
   There might be conflicts with YouTube's native shortcuts; adjust key events as necessary.
+  
