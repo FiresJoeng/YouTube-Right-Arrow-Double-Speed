@@ -1,6 +1,6 @@
 # YouTube-Right-Arrow-Double-Speed
 
-将 YouTube 的长按 2 倍速快捷键修改为右箭头键，以便与中国大陆视频网站统一快捷键。
+将 YouTube 的长按 2 倍速快捷键修改为右箭头键，以便与中国大陆视频网站统一快捷键。  
 A Chrome Extension. Designed to change YouTube's double-speed shortcut to the Right-Arrow key.  
 
 ## 安装 / Installation
@@ -32,4 +32,3 @@ A Chrome Extension. Designed to change YouTube's double-speed shortcut to the Ri
   Make sure Developer Mode is enabled in Chrome.
 - 此扩展仅适用于 YouTube 视频页面。  
   This extension is only applicable to YouTube video pages.
-  
