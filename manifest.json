@@ -3,20 +3,19 @@
   "name": "YouTube 右箭头二倍速",
   "version": "1.0",
   "description": "将 YouTube 的长按 2 倍速快捷键修改为右箭头键。",
+  "author": "GitHub @FiresJoeng",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
   "content_scripts": [
     {
       "matches": [
         "*://www.youtube.com/*",
         "*://youtu.be/*"
       ],
-      "js": [
-        "content.js"
-      ],
-      "icons": {
-        "16": "icon16.png",
-        "48": "icon48.png",
-        "128": "icon128.png"
-      },
+      "js": ["content.js"],
       "run_at": "document_end"
     }
   ]
