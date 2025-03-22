@@ -18,8 +18,8 @@ A Chrome Extension. Designed to change YouTube's double-speed shortcut to the Ri
 
 - 打开 YouTube 视频页面（包括 `www.youtube.com` 和 `youtu.be` 地址）。  
   Open any YouTube video page (including URLs like `www.youtube.com` and `youtu.be`).
-- 按住右箭头键超过 500 毫秒，视频将以 2 倍速播放；松开后恢复正常播放速度。  
-  Long press the right arrow key for over 500 milliseconds to switch the video to double speed; releasing the key will revert the speed to normal.
+- 按住右箭头键（→）超过 500 毫秒，视频将以 2 倍速播放；松开后恢复正常播放速度。  
+  Long press the Right-Arrow key ( → ) for over 500 milliseconds to switch the video to double speed; releasing the key will revert the speed to normal.
 
 ## 文件结构 / File Structure
 
